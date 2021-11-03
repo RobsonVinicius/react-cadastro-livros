@@ -10,7 +10,7 @@
     "react-scripts": "3.0.1",
     "sweet-alert": "^2.0.5",
     "sweetalert2": "^8.17.1",
-    "validator": "10.11.0"
+    "validator": "13.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
